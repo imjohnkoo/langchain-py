@@ -1,5 +1,6 @@
 # libraries
 .venv
+.idea
 
 # env
 .env
